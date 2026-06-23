@@ -158,7 +158,7 @@ Customer-Churn-Prediction-Streamlit/
 ## Author
 
 **K Dheeraj**  
-AI & Machine Learning Developer
+
 
 ---
 
